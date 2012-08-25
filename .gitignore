@@ -1,3 +1,5 @@
 .idea/
 postcom.php
 assets/img/cache/*.jpg
+assets/img/tmp/*.jpg
+
